@@ -101,9 +101,9 @@ Preinstall Node.js
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/michikochew98/Weather-Forecast-Project.git
+   git clone https://github.com/michikochew98/PinME-Location-Review.git
    ```
-2. Run yarn install for frontend and backend folder
+2. Run yarn install for frontend and backend folder to download required libraries
   ```sh
  yarn install 
   ```
