@@ -103,9 +103,9 @@ Preinstall Node.js
    ```sh
    git clone https://github.com/michikochew98/PinME-Location-Review.git
    ```
-2. Run yarn install for frontend and backend folder to download required libraries
+2. Run yarn to install required libraries for frontend and backend
   ```sh
- yarn install 
+ yarn
   ```
 3. Create account in MapBox API (https://www.mapbox.com/) and MongoDB Atlas (https://www.mongodb.com/atlas/database). 
 Key created and keep in created .env files.
